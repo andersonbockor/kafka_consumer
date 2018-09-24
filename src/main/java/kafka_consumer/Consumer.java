@@ -1,4 +1,4 @@
-package kafka_consumer.kafka_consumer;
+package kafka_consumer;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;

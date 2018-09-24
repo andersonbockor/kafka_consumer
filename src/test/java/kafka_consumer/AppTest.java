@@ -1,4 +1,4 @@
-package kafka_consumer.kafka_consumer;
+package kafka_consumer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
